@@ -14,4 +14,4 @@
 * Add scoring
 * Add colors
 
-![Pong Game Screenshot](https://github.com/Rajithlahiru/Pong-Game-Cpp/blob/main/pong.PNG?raw=true)
+![Pong Game Screenshot](https://github.com/Rajithlahiru/Pong-Game-Cpp/blob/main/pong_new.PNG?raw=true)
