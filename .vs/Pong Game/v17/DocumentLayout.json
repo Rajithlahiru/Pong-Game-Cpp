@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\Pong Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30B5C8DD-B2D8-404E-ACC6-791671EB098E}|Pong Game\\Pong Game.vcxproj|D:\\C\u002B\u002B\\Pong Game\\Pong Game\\Pong Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30B5C8DD-B2D8-404E-ACC6-791671EB098E}|Pong Game\\Pong Game.vcxproj|solutionrelative:Pong Game\\Pong Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pong Game.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\Pong Game\\Pong Game\\Pong Game.cpp",
+              "RelativeDocumentMoniker": "Pong Game\\Pong Game.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\Pong Game\\Pong Game\\Pong Game.cpp",
+              "RelativeToolTip": "Pong Game\\Pong Game.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwEQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T20:03:15.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
