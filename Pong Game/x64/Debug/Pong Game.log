@@ -1,10 +1,15 @@
 ﻿  Pong Game.cpp
-D:\C++\Pong Game\Pong Game\Pong Game.cpp(13,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-D:\C++\Pong Game\Pong Game\Pong Game.cpp(13,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\C++\Pong Game\Pong Game\Pong Game.cpp(13,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\C++\Pong Game\Pong Game\Pong Game.cpp(38,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\C++\Pong Game\Pong Game\Pong Game.cpp(38,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\C++\Pong Game\Pong Game\Pong Game.cpp(38,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\C++\Pong Game\Pong Game\Pong Game.cpp(38,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\C++\Pong Game\Pong Game\Pong Game.cpp(70,11): error C2460: 'CpuPaddle::cpu': uses 'CpuPaddle', which is being defined
-D:\C++\Pong Game\Pong Game\Pong Game.cpp(57,1): error C1075: '{': no matching token found
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(21,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(21,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(21,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(43,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(44,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(69,59): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(111,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(112,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(133,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(136,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\Pong Game\Pong Game\Pong Game.cpp(139,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong Game.vcxproj -> D:\C++\Pong Game\x64\Debug\Pong Game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
