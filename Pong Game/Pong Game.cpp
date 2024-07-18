@@ -143,7 +143,7 @@ int main()
 
         // Drawaing
         ClearBackground(DarkGreen);
-        DrawRectangle(screenWidth / 2 , 0 , screenHeight / 2, screenHeight, Green); // middle line
+        DrawRectangle(screenWidth / 2 , 0 , screenWidth / 2, screenHeight, Green); // middle line
         DrawCircle(screenWidth / 2, screenHeight / 2, 150, LightGreen); // middle circle
         DrawLine(screenWidth/2,0,screenWidth/2,screenHeight,WHITE);
         ball.Draw();
